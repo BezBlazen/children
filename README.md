@@ -5,3 +5,4 @@
 3. [Короткие рассказы](short-stories.md)
 4. Игры
     * [Морской бой](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/BezBlazen/children/main/battleship.pdf)
+5. [Словарные слова](vocabulary-words.md) 
