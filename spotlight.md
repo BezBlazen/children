@@ -15,6 +15,7 @@ suffle \
 ___
 [i]: milk pink Kim sit big swim rich is sister kitten little listen \
 [ai]: bike like Mike kite write white fine nine ride drive five ice I hi \
+suffle \
 1: nine ice milk listen rich ride hi write five bike white swim little like is sister drive kite pink big Mike sit fine kitten I Kim \
 2: little sister kitten is bike I pink write Mike big white ice five hi kite like sit listen fine Kim swim milk rich drive ride nine \
 3: I pink bike sit milk five little sister kitten fine kite hi ice Mike ride drive Kim write listen is nine swim big rich like white \
@@ -23,7 +24,8 @@ ___
 
 ___
 [i:]: we me be he she Pete \
-[e]: zebra seven deck men ten pen hen red bed wet egg leg dress elf Ken
+[e]: zebra seven deck men ten pen hen red bed wet egg leg dress elf Ken \
+suffle \
 1: pen Ken ten dress he red egg deck zebra men me bed hen leg be seven she Pete wet we elf \
 2: me wet hen Pete Ken be bed dress seven egg leg he pen elf red she we deck ten men zebra \
 3: dress zebra he deck seven bed we me Ken men Pete hen egg leg red elf she ten wet pen be \
